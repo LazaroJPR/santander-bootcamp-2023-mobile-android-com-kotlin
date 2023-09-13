@@ -21,7 +21,3 @@ Considere apenas uma casa decimal para esse desafio.
 ## Saída
 
  Um número decimal que representa o saldo atualizado na conta bancária após o processamento das transações.
-
-## Exemplos
-
-A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectivas saídas esperadas. Certifique-se de testar seu programa com esses exemplos e com outros casos possíveis.
