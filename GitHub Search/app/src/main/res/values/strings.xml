@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GitHubSearch</string>
+    <string name="nome_usuario">Nome do usuário</string>
+    <string name="nome_usuario_salvo">Nome do usuário salvo</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="logo_do_github">Logo do GitHub</string>
+</resources>
